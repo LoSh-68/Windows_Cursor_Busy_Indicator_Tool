@@ -11,3 +11,5 @@ https://github.com/TomSchimansky/CustomTkinter
 Showcase:
 
 ![showcase](https://github.com/user-attachments/assets/00954eb9-f819-4d0b-9a85-26ad9d7555d9)
+
+![showcase_gif](https://github.com/user-attachments/assets/631a2faa-2766-4ff9-ae56-2f3a520dce93)
